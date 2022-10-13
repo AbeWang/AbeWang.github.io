@@ -1,0 +1,7 @@
+"webcredentials": {
+        "apps": [
+            "FV623VTF3J.com.kkstream.inhouse.videopassiphone",
+            "72M2493FFK.com.kkstream.videopassiphone",
+            "P5SZ47MNPC.com.kddi.ios.videopassiphone"
+        ]
+}
